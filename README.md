@@ -1,6 +1,12 @@
-# demoProject
-##/public 静态资源
-##/tmp 中间目录
-##/views 主页
-##app.js 
-##package.json
+#demoProject
+
+##使用方法
+1.下载
+2.cd demoProject
+3.npm install
+4.node app
+5.浏览器打开 http:127.0.0.1:8081
+
+
+##更新日志-2017-10-25
+基本完成
