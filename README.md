@@ -1,5 +1,7 @@
 #demoProject
 
+##主页https://lorogy.github.io/demoProject/
+
 ##使用方法
 1.下载
 2.cd demoProject
